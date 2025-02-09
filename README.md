@@ -3,6 +3,7 @@
 ## Project Information
 
 Team Members: Marion Manalo, Sebastian Wu, Rishi Kunnath
+
 Tier Level: Intermediate
 
 ### Project Description
