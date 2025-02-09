@@ -45,12 +45,11 @@ Challenge 2: Figuring out what app to make based on our pre-existing knowledge
 
 
 
-AI Usage (if any): None
+#### AI Usage (if any): None
 
-Tool used: N/A
-Purpose: N/A
-How it contributed to learning:
-N/A
+- Tool used: N/A
+- Purpose: N/A
+- How it contributed to learning: N/A
 
 
 
@@ -94,7 +93,7 @@ Challenge 2: There were problems with aligning a user’s name on their card to 
 - Firebase data retrieval
 
 
-AI Usage (if any):
+#### AI Usage (if any):
 
 - Tool used: ChatGPT
 - Purpose: Debugging and learning
@@ -139,8 +138,8 @@ Challenge 2: Information queuing algorithm for the main feed; general idea in mi
     - Pushing to remote GitHub repository
 
 
-AI Usage (if any): None
+#### AI Usage (if any): None
 
-Tool used: N/A
-Purpose: N/A
-How it contributed to learning: N/A
+- Tool used: N/A
+- Purpose: N/A
+- How it contributed to learning: N/A
